@@ -11,7 +11,7 @@ Installation
 Preferred way to install this library is via composer:
 
 ```bash
-composer require alexeevdv/alexeevdv "1.0.0"
+composer require alexeevdv/php-domain-info "1.0.0"
 ```
 
 Usage:
