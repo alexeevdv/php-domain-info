@@ -1,0 +1,17 @@
+{
+  "name": "alexeevdv/php-domain-info",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dmitry V. Alexeev",
+      "email": "mail@alexeevdv.ru"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "alexeevdv\\domain\\info\\": "src"
+    }
+  }
+}
